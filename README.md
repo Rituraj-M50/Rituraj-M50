@@ -14,13 +14,9 @@
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Rituraj-M50&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Rituraj-M50&theme=dark" >(https://git.io/streak-stats)
+<img  src="https://github-readme-streak-stats.herokuapp.com?user=Rituraj-M50&theme=dark" >
 <br>
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=Rituraj-M50&rank=S,AAA,AA,A&theme=juicyfresh&margin-w=15)](https://github.com/Rituraj-M50/github-profile-trophy)
-</div>
 
 ### Contacts -
 
