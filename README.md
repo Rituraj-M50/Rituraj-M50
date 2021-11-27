@@ -27,8 +27,6 @@
   
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rituraj-M50)](https://github.com/Rituraj-M50/github-readme-stats)
-
 
 ![Rituraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rituraj-M50&show_icons=true&theme=radical)
 
