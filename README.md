@@ -1,4 +1,4 @@
-### Hello World 💻
+### Hi There 😃
 
 ### Tech Stack I am Familiar With -
 
@@ -26,10 +26,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rituraj-mahato/)
   
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rituraj-M50)](https://github.com/Rituraj-M50/github-readme-stats)
-
-![Rituraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rituraj-M50&show_icons=true&theme=radical)
 
 <!---
 Rituraj-M50/Rituraj-M50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
