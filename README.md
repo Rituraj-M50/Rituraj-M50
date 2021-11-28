@@ -11,12 +11,6 @@
 <br/>
 </p>
 
-## 🏆 Github Status
-<img  src="https://github-readme-stats.vercel.app/api?username=Rituraj-M50&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=Rituraj-M50&theme=dark" >
-<br>
-
-
 ### Contacts -
 
 <div align="center">
@@ -25,6 +19,15 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rituraj-mahato/)
   
 </div>
+
+<p>My GitHub Stats</p>
+<br>
+
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rituraj-M50&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35&hide_langs_below=1&layout=compact" width="500px"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rituraj-M50&show_icons=true&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35" alt="Rituraj Mahato's github stats"  width="600px" />
+|---|---|
+
+----
 
 <!---
 Rituraj-M50/Rituraj-M50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
