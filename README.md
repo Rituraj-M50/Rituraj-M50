@@ -25,7 +25,7 @@
 - Web Development Frameworks - Bootstrap
 - Web Development Stack - HTML, CSS, JavaScript, PHP, Firebase
 - UX Designing and Prototype Tool - Figma
-- 
+- Python in Progress...
 
 <p>My GitHub Stats</p>
 <br>
