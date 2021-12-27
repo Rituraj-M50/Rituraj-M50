@@ -1,15 +1,26 @@
-### Hi There 😃
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-### Tech Stack I am Familiar With -
+<h1 align="center">Hi There 😃, It's Rituraj</h1>
+<h3 align="center">I'm a Web Developer from India</h3>
 
-<p align="center">
-<br/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" style="margin:2px;"/>
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" style="margin:2px;"/>
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" style="margin:2px;"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
-<br/>
-</p>
+
+###About Me -
+
+- 🔭 I’m currently working on **Web Development and UX Design**
+
+- 🌱 I’m currently learning **Artificial Intelligence**
+
+- 🧑‍🎓 I'm currently a BTech student in Vellore Institute Of Technology
+
+- 👯 I’m looking to collaborate on **OpenSource Projects**
+
+
+- 📫 How to reach me **biswadeeproy1230@gmail.com**
+
+- ⚡ Fun fact **I'm a part time singer and musician**
+
+
+
 
 ### Contacts -
 
@@ -42,3 +53,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on Google Developer Student Club
 - 📫 How to reach me rituraj.mahato2021@vitstudent.ac.in
 -->
+
+
+
