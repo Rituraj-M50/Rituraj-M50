@@ -12,12 +12,12 @@
 
 - 🧑‍💻 I'm a Student of Vellore Institute Of Technology
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👍 I’m looking to collaborate on **Web Development Projects**
 
 
-- 📫 How to reach me **biswadeeproy1230@gmail.com**
+- 📫 How to reach me **rituraj.mahato2021@vitstudent.ac.in**
 
-- ⚡ Fun fact **I'm a part time singer and musician**
+- ⚡ Fun fact - I'm a **UX Researcher, Guitarist, Video Editor...**
 
 <p>My GitHub Stats</p>
 <br>
