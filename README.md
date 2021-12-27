@@ -6,11 +6,11 @@
 
 ###About Me -
 
-- 🔭 I’m currently working on **Web Development and UX Design**
+- 💻 Currently, I'm working on **Web Development and UX Design**
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🔥 Currently, I'm learning **PHP** and **Firebase**
 
-- 🧑‍🎓 I'm currently a BTech student in Vellore Institute Of Technology
+- 🧑‍💻 I'm a Student of Vellore Institute Of Technology
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -19,7 +19,14 @@
 
 - ⚡ Fun fact **I'm a part time singer and musician**
 
+<p>My GitHub Stats</p>
+<br>
 
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rituraj-M50&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35&hide_langs_below=1&layout=compact" width="500px"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rituraj-M50&show_icons=true&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35" alt="Rituraj Mahato's github stats"  width="600px" />
+|---|---|
+
+----
 
 
 ### Contacts -
@@ -30,15 +37,6 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/rituraj-mahato/)
   
 </div>
-
-<p>My GitHub Stats</p>
-<br>
-
-
-|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rituraj-M50&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35&hide_langs_below=1&layout=compact" width="500px"/>|<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rituraj-M50&show_icons=true&title_color=9580ff&icon_color=42b463&text_color=9f9f9f&bg_color=282a35" alt="Rituraj Mahato's github stats"  width="600px" />
-|---|---|
-
-----
 
 <!---
 Rituraj-M50/Rituraj-M50 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
