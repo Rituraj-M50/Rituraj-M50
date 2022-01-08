@@ -25,7 +25,8 @@
 - Web Development Frameworks - Bootstrap
 - Web Development Stack - HTML, CSS, JavaScript, PHP, Firebase
 - UX Designing and Prototype Tool - Figma
-- Python in Progress...
+- Primary Language - Python
+- Language in Progress - C++
 
 ### My GitHub Stats -
 <br>
