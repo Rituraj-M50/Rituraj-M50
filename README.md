@@ -9,19 +9,19 @@
 
 - 🔥 Currently, I'm learning **PHP** and **Firebase**
 
-- 🧑‍💻 I'm a Student of Vellore Institute Of Technology
+- 🧑‍💻 I'm a Student of ***Vellore Institute Of Technology***
 
 - 👍 I’m looking to collaborate on **Web Development Projects**
 
 
 - 📫 How to reach me **rituraj.mahato2021@vitstudent.ac.in**
 
-- ⚡ Fun fact - I'm a **UX Researcher, Guitarist, Video Editor...**
+- ⚡ Fun fact - I'm a **UX Researcher, Guitarist, Video Editor**
 
 ### My Tech Stack -
 
 - Code Editor for Web Development -> Visual Studio Code
-- Browser for Web Development) -> Google Chrome
+- Browser for Web Development -> Google Chrome
 - Web Development Frameworks - Bootstrap
 - Web Development Stack - HTML, CSS, JavaScript, PHP, Firebase
 - UX Designing and Prototype Tool - Figma
