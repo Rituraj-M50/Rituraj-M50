@@ -7,7 +7,7 @@
 
 - 💻 Currently, I'm working on **Web Development and UX Design**
 
-- 🔥 Currently, I'm learning **PHP** and **Firebase**
+- 🔥 Currently, I'm learning **Java** and **Firebase**
 
 - 🧑‍💻 I'm a Student of ***Vellore Institute Of Technology***
 
