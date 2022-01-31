@@ -7,7 +7,7 @@
 
 - 💻 Currently, I'm working on **Web Development and UX Design**
 
-- 🔥 Currently, I'm learning **Java** and **Firebase**
+- 🔥 Currently, I'm learning **Java** and **Data Structures**
 
 - 🧑‍💻 I'm a Student of ***Vellore Institute Of Technology***
 
@@ -26,7 +26,7 @@
 - Web Development Stack - HTML, CSS, JavaScript, PHP, Firebase
 - UX Designing and Prototype Tool - Figma
 - Primary Language - Python
-- Language in Progress - C++
+- Language in Progress - Java
 
 ### My GitHub Stats -
 <br>
