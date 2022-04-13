@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **rituraj.mahato2021@vitstudent.ac.in**
 
-- ⚡ Fun fact - I'm a **UX Researcher, Guitarist, Video Editor**
+- ⚡ Fun fact - I'm a **Academic Researcher, Guitarist, Video Editor**
 
 ### My Tech Stack -
 
