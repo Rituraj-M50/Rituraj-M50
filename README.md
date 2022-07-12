@@ -1,8 +1,3 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
-
-<h1 align="center">Hi There 😃, It's Rituraj</h1>
-<h3 align="center">I'm a Web Developer from India</h3>
-
 ### About Me -
 
 - 💻 Currently, I'm working on **Web Development and UX Design**
