@@ -9,7 +9,7 @@
 - 👍 I’m looking to collaborate on **Web Development Projects**
 
 
-- 📫 How to reach me **rituraj.mahato2021@vitstudent.ac.in**
+- 📫 How to reach me **----**
 
 ### My Tech Stack -
 
